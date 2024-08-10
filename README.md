@@ -1,4 +1,4 @@
 # DemoRepo
 My first Git repository
 <br>
-Author- Pankaj Nehra
+Author- Pankaj (IITKGP)
